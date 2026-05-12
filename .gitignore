@@ -222,3 +222,5 @@ __marimo__/
 *.zip
 *.mp4
 *.gif
+*.pkl
+*.pth
